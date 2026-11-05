@@ -1,0 +1,8 @@
+ccxt>=4.3
+aiosqlite>=0.20
+aiohttp>=3.9
+pandas>=2.0.0,<3.0.0
+numpy>=1.26.0,<2.0.0
+pandas-ta
+flask
+gunicorn
